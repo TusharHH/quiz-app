@@ -1,0 +1,19 @@
+.gratitude-background {
+    background-color: #494949;
+    display: flex;
+    justify-content: center;
+}
+
+.gratitude-page {
+    background-color: white;
+    width: 1400px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.card-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
